@@ -1,1 +1,1 @@
-# Awesome My git practice project (feature update) taught by akash sir 
+# Awesome My git practice project
